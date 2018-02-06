@@ -42,3 +42,7 @@ To unset variables use:
 $ heroku config:unset WI_ACCOUNT_ID
 
 $ heroku config:unset WI_ACCOUNT_TOKEN
+
+# Documentation
+
+http://docs.englishlanguageitutoring.com/
