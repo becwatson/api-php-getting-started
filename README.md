@@ -1,4 +1,4 @@
-# wi-api-php-getting-started
+# api-php-getting-started
 
 # Clone and Deploy to Heroku
 
