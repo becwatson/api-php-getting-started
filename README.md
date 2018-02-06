@@ -7,7 +7,7 @@ https://devcenter.heroku.com/articles/heroku-cli
 
 $ git clone git@github.com:becwatson/api-php-getting-started.git # or clone your own fork
 
-$ cd wi-api-php-getting-started
+$ cd api-php-getting-started
 
 $ heroku create
 
